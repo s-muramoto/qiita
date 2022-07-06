@@ -64,7 +64,7 @@ Pythonには量子アニーリングに関するライブラリが豊富にあ�
 * [pyqubo](https://github.com/recruit-communications/pyqubo)
   * (株) リクルートコミュニケーションズが開発しているOSS。
   * 最適化問題の定式化表現機能を搭載したツールセット。
-  * dwaveなどのアニーリングマシンに投入できるQUBOを作成。
+  * D-Wave社などが提供しているアニーリングマシンに投入できるQUBOデータを作成。
 * [dwave-ocean-sdk](https://github.com/dwavesystems/dwave-ocean-sdk)
   * カナダのD-Wave社が提供しているOSS。
   * 無償で量子アニーリングのシミュレーションができるIFを提供。
